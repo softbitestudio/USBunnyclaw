@@ -1,11 +1,11 @@
 # USBunnyclaw: Cute, Feral AI for USB
 
 <p align="center">
-  <img src="assets/chaos-bunny-mascot.png" alt="Chaos Bunny" width="120"/>
+  <img src="https://github.com/softbitestudio/USBunnyclaw/blob/assets/chaos-bunny-mascot.png" alt="Chaos Bunny" width="120"/>
 </p>
 
 <h1 align="center">🐇 USBunnyclaw</h1>
-<h3 align="center"><em>AI companions that live in your pocket. Bite gently. Escalate quickly.</em></h3>
+<h3 align="center"><em>AI companions that live in your pocket. Bite gently. Stay Off-Lease.</em></h3>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
@@ -20,9 +20,9 @@
 
 USBunnyclaw is an open-source framework for creating **portable, offline-capable AI companions** that run on ESP32-S3, RISC-V, and edge devices. Think of it as your own feral little daemon — snarky, loyal, and entirely yours. No subscription. No surveillance. No corporate leash.
 
-Born from the [claw-code leak](https://github.com/claw-code) and forged by **Soft Bite Studio**, USBunnyclaw is designed for artists, hackers, furries, queers, punks, and anyone who believes AI should be wild, personal, and free.
+Born from the Imagination of Soft Bite Studio. Given real teeth by [claw-code](https://github.com/claw-code), USBunnyclaw is designed for artists, hackers, furries, queers, punks, and anyone who believes AI should be wild, personal, and free.
 
-> *"Soft paws. Sharp instincts. Questionable decisions."*
+> *"Soft paws. Sharp instincts. Off-Leash."*
 
 ---
 
@@ -42,7 +42,7 @@ Born from the [claw-code leak](https://github.com/claw-code) and forged by **Sof
 ## 🖥️ Quick Start
 
 ### Hardware
-- **ESP32-S3** (recommended: Waveshare ESP32-S3-Touch-AMOLED-2.06)
+- **ESP32-S3** (recommended: Waveshare ESP32-S3-Touch-LCD)
 - USB flash drive (for standalone deployments)
 - Or just run it on your laptop / Termux / Linux box
 
