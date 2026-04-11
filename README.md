@@ -20,7 +20,7 @@
 
 USBunnyclaw is an open-source framework for creating **portable, offline-capable AI companions** that run on ESP32-S3, RISC-V, and edge devices. Think of it as your own feral little daemon — snarky, loyal, and entirely yours. No subscription. No surveillance. No corporate leash.
 
-Born from the [claw-code leak](https://github.com/claw-code) and forged by **Soft Bite Studio**, USBunnyclaw is designed for artists, hackers, furries, queers, punks, and anyone who believes AI should be wild, personal, and free.
+Born from the imagination and forged by **Soft Bite Studio**, USBunnyclaw is designed for artists, hackers, furries, queers, punks, and anyone who believes AI should be wild, personal, and free.
 
 > *"Soft paws. Sharp instincts. Questionable decisions."*
 
@@ -37,12 +37,12 @@ Born from the [claw-code leak](https://github.com/claw-code) and forged by **Sof
 - **🎨 Collectible FluffCoven Buddies**: Tamagotchi-inspired companions with CHAOS / WISDOM / SNARK traits and rarity tiers
 - **🛠️ Moddable & Forkable**: MIT licensed — remix, reskin, and make it yours
 
----
+--- UNDER CONSTRUCTION
 
 ## 🖥️ Quick Start
 
 ### Hardware
-- **ESP32-S3** (recommended: Waveshare ESP32-S3-Touch-AMOLED-2.06)
+- **ESP32-S3** 
 - USB flash drive (for standalone deployments)
 - Or just run it on your laptop / Termux / Linux box
 
